@@ -13,6 +13,10 @@ I have knowledge in web development and java.
 📫 How to reach me: Whatsapp +573057135692
 
 ⚡ Fun fact: I never know when to surrender.
+
+![BSK_Electro](https://user-images.githubusercontent.com/59543451/236690966-02a4182e-cd7b-426d-932d-b0a283ae9c05.png)
+
+
 <!--
 **BSKeeper/BSKeeper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
