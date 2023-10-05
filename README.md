@@ -6,7 +6,7 @@ I'm a programer that loves videogames.
 
 I have knowledge in web development and java.
 
-🌱I'm currently learning React js.
+🌱I'm currently learning Php.
 
 💬 Ask me about anything you want to know about me.
 
