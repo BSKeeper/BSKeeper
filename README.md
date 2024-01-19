@@ -4,9 +4,9 @@ Welcome to my profile!
 
 I'm a programer that loves videogames.
 
-I have knowledge in web development, PHP, SQL and java.
+I have knowledge in web development, Javascript. React, PHP, SQL, Godot and java.
 
-🌱I'm currently learning GODOT.
+🌱I'm currently learning React Native.
 
 💬 Ask me about anything you want to know about me.
 
